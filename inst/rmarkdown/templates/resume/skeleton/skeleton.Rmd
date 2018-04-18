@@ -50,11 +50,23 @@ experience:
     continue:
     
 outside-work:
-  - accomplishment: Created R package resume (https://github.com/JacekPardyak/resume)
+  - title: R package resume
+    accomplishment: (https://github.com/JacekPardyak/resume)
     continue: true  
-  - accomplishment: Has been recognized by the Dutch police for daring attitude (http://bit.ly/2aNdf6D)
+  - title: Python script
+    accomplishment: for daring attitude (http://bit.ly/2aNdf6D)
     continue:
-  
+
+referee:
+  - full_name: Jon Doe
+    job_title: Department Director
+    current_contact_details: (+31) 567 432 222 
+    continue: true
+  - full_name: Forrest Gump
+    job_title: Partner
+    current_contact_details: (+48) 567 432 222 
+    continue: 
+    
 preamble: >
   \usepackage{amsmath}
   \usepackage{hyperref}
